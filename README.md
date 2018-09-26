@@ -1,6 +1,6 @@
 # Burger-project
 
 
-#Technologies used:
+# Technologies used:
 - React
 - CSS-modules
